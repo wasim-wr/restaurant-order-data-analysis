@@ -44,6 +44,7 @@ Two tables cover January to March:
 Italian dishes generate the highest spend per order, while American dishes attract the most orders. Managers should promote Italian items, keep popular American dishes in stock, and review low-selling Mexican dishes to improve sales.
 
 ---
-**Tools:** MySQL · HTML · Chart.js
+**Tools:** MySQL 
+
 
 
